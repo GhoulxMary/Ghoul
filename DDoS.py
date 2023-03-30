@@ -79,7 +79,7 @@ def add_useragent():
 		with open("./ua.txt","r") as fp:
 			uagents = re.findall(r"(.+)\n",fp.read())
 	except FileNotFoundError:
-		cprint('[-] No file named \'ua.txt\',failed to load User-Agents','yellow')
+		cprint('[-] No file named \'ghoul.txt\',failed to load User-Agents','yellow')
 		return []
 	return uagents
 
