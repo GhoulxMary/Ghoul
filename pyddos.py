@@ -10,7 +10,7 @@ title = '''
                                                                     
  The intent of the individuals who created the DDoS attacks has nothing to do with hacking, and they are vandals, not hackers.    
  Author: Ghoul                                               
- Github: http://github.com/t7hm1/pyddos                             
+ Github: https://github.com/GhoulxMary/Ghoul.git                            
  Version:'''+version+''' 
 '''
 
